@@ -74,7 +74,7 @@ Rmd notebook in jupyter     | Rmd notebook as text
 Yes. That's even the recommended setting for the notebooks you want to
 set under *version control*.
 
-You need to choose whever to configure this per notebook, or globally.
+You need to choose whether to configure this per notebook, or globally.
 
 ### Per-notebook configuration
 
